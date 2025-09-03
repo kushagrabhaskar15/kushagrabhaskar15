@@ -2,17 +2,17 @@
 <h1 align="center">Hi 👋, I'm Kushagra Bhaskar</h1>
 <h3 align="center">A BTech Student from India</h3>
 
-- 🔭 I’m currently working on **Currently working on improving my skills in full-stack development and exploring new web technologies**
+- 🔭 I’m currently working on improving my skills in full-stack development and exploring new web technologies
 
-- 🌱 I’m currently learning **advanced Java, React, and cloud-based backend development.**
+- 🌱 I’m currently learning advanced Java, React, and cloud-based backend development.
 
-- 👯 I’m looking to collaborate on **learning-focused projects, open-source contributions, and practical coding challenges.**
+- 👯 I’m looking to collaborate on learning-focused projects, open-source contributions, and practical coding challenges.
 
-- 💬 Ask me about **Java, JavaScript, full-stack development, React, Firebase, Spring Boot.**
+- 💬 Ask me about Java, JavaScript, full-stack development, React, Firebase, Spring Boot.
 
 - 📫 How to reach me **kushagrabhaskar05@gmail.com**
 
-- ⚡ Fun fact **Big fan of clean code and small hacks.**
+- ⚡ Fun fact: Big fan of clean code and small hacks.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
